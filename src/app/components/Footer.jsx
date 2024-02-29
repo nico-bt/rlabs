@@ -12,11 +12,7 @@ export default function Footer() {
         </a>
       </div>
 
-      <a
-        href="https://www.linkedin.com/in/nico-battaglia/"
-        target="_blank"
-        rel="noreferrer noopener"
-      >
+      <a href="https://github.com/nico-bt/rlabs" target="_blank" rel="noreferrer noopener">
         Codigo en GitHub
       </a>
     </footer>
